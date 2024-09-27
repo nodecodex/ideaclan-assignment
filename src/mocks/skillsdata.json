@@ -1,0 +1,8 @@
+[
+    { "value": "react", "label": "React" },
+    { "value": "nodejs", "label": "Node.js" },
+    { "value": "typescript", "label": "TypeScript" },
+    { "value": "docker", "label": "Docker" },
+    { "value": "python", "label": "Python" },
+    { "value": "java", "label": "Java" }
+  ]
